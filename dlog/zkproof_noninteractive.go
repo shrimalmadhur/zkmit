@@ -6,6 +6,7 @@ import "fmt"
 
 func dlogProof1(x uint64, g uint64, p uint64) (float64, float64) {
 	fmt.Println("generating proof")
+
 	return 0, 0
 }
 
